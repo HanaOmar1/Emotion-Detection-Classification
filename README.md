@@ -21,7 +21,8 @@ This project is a **real-time speech emotion recognition system** that combines 
 ---
 
 ## Demo
-<img width="1889" height="884" alt="image" src="https://github.com/user-attachments/assets/8f0b63c8-264e-4b8e-9d1e-79486c4d4725" />
+<img width="1879" height="880" alt="image" src="https://github.com/user-attachments/assets/5552f2ba-e5e7-4e11-b6e8-af9ad2cbe01f" />
+
 
 ---
 
